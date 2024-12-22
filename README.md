@@ -39,17 +39,6 @@ Self-taught developer who began coding in 2023. What started as a passion projec
 
 ---
 
-## 🏗️ Projects
-
-### **Coloc**  
-*January 2024*  
-A platform tailored for university students to facilitate seamless flatmate searches within college communities.
-- Improved roommate matching by 30% with advanced algorithms.
-- Enhanced user experience, fostering a sense of belonging among students.
-- [Visit Project](https://colocweb.vercel.app/)
-
----
-
 ## 📊 GitHub Stats
 
 ![Wanderer's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderer00a1&show_icons=true&theme=radical)  
