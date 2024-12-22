@@ -50,7 +50,8 @@ Self-taught developer who began coding in 2023. What started as a passion projec
 ---
 
 ## 🌐 Let's Connect
-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/octopols101)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/love-dhama-6b513b28b)
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wanderer00a1)
 
 ---
 
