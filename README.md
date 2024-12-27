@@ -45,7 +45,6 @@ Self-taught developer who began coding in 2023. What started as a passion projec
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderer00a1&layout=compact&theme=radical)
 
-*Note: "Top languages" reflects the composition of public repositories and does not indicate expertise level.*
 
 ---
 
