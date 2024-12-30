@@ -47,6 +47,13 @@ Self-taught developer who began coding in 2023. What started as a passion projec
 
 
 ---
+## 🧩 LeetCode Profile
+
+I enjoy solving algorithmic challenges and improving my problem-solving skills. Check out my LeetCode profile: [LeetCode](https://leetcode.com/u/wanderer00a1/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wanderer00a1/)
+
+---
 
 ## 🌐 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/love-dhama-6b513b28b)
