@@ -54,13 +54,14 @@ I’m a self-taught developer driven by an obsession with technology and problem
 
 I enjoy solving algorithmic challenges and improving my problem-solving skills. Check out my LeetCode profile:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wanderer00a1/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wanderer00a1/)
 
 ---
 
 ## 🌐 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/love-dhama-6b513b28b)
-- [<img src="https://img.icons8.com/ios-filled/25/000000/twitterx--v1.png" alt="X" />](https://x.com/wanderer00a1)
+- [![X](https://img.shields.io/badge/-X-000?style=flat&logo=twitter&logoColor=white)](https://x.com/wanderer00a1)
+
 
 
 ---
