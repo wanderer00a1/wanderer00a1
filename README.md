@@ -60,7 +60,8 @@ I enjoy solving algorithmic challenges and improving my problem-solving skills. 
 
 ## 🌐 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/love-dhama-6b513b28b)
-- [![X (Twitter)](https://img.shields.io/badge/X-@wanderer00a1-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/wanderer00a1)
+- [<img src="https://img.icons8.com/ios-filled/25/000000/twitterx--v1.png" alt="X" />](https://x.com/wanderer00a1)
+
 
 ---
 
