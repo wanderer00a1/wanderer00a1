@@ -1,11 +1,9 @@
 <h2 align="center">Hi there! I'm wanderer 👋</h2>
 
 <p align="center">
-  I'm a <strong>full-stack developer</strong> driven by an obsession with technology and problem-solving.<br/>
-  This passion has guided me through a journey in Computer Science,<br/>
-  where I focus on building responsive web applications and scalable platforms.<br/>
-  Currently exploring modern backend tools, cloud deployments, and full-stack magic.<br/>
-  Always down to learn, collaborate, and build things that matter.
+  I'm a <strong>full-stack developer</strong> who enjoys solving problems and building for the web.<br/>
+  I focus on creating responsive applications and scalable platforms<br/>
+  that are clean, efficient, and actually work.<br/>
 </p>
 
 <p align="center">
@@ -13,12 +11,6 @@
 </p>
 
 
----
-
-## ✍️ Key Notes
-- **Self-taught Developer**
-- Proficient in **JavaScript** and **Python**
-- Focused on creating efficient, scalable, and user-friendly solutions
 
 ---
 
