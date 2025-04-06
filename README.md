@@ -1,10 +1,17 @@
-# Hi, I'm Wanderer! 👋
+<h2 align="center">Hi there! I'm wanderer 👋</h2>
 
-I’m a self-taught developer driven by an obsession with technology and problem-solving. This passion has guided me through a journey in Computer Science, where I focus on building responsive web applications and scalable platforms. I’m always looking for new ways to innovate and improve the user experience.
+<p align="center">
+  I'm a <strong>full-stack developer</strong> driven by an obsession with technology and problem-solving.<br/>
+  This passion has guided me through a journey in Computer Science,<br/>
+  where I focus on building responsive web applications and scalable platforms.<br/>
+  Currently exploring modern backend tools, cloud deployments, and full-stack magic.<br/>
+  Always down to learn, collaborate, and build things that matter.
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wanderer00a1&style=flat" alt="Profile views"/>
+</p>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=wanderer00a1&color=blue)
 
 ---
 
