@@ -47,7 +47,7 @@
 
 ![Wanderer's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderer00a1&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stat-gules.vercel.app/api/top-langs/?username=wanderer00a1&count_private=true&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stat-gules.vercel.app/api/top-langs/?username=wanderer00a1&count_private=true&theme=dark&layout=compact&cache_seconds=1)
 
 
 
