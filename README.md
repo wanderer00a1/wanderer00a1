@@ -64,8 +64,7 @@ I enjoy solving algorithmic challenges and improving my problem-solving skills. 
 
 ---
 
-## 🌐 Let's Connect
-- [![X](https://img.shields.io/badge/-X-000?style=flat&logo=twitter&logoColor=white)](https://x.com/wanderer00a1)
+
 
 
 
