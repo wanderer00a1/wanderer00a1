@@ -63,10 +63,5 @@ I enjoy solving algorithmic challenges and improving my problem-solving skills. 
 ---
 
 
-
-
-
----
-
 Let's build something amazing together!
 
