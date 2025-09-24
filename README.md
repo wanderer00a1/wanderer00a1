@@ -49,7 +49,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wanderer00a1&theme=github_dark)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wanderer00a1&theme=github_dark)
+![Metrics](https://raw.githubusercontent.com/wanderer00a1/wanderer00a1/main/github-metrics.svg)
 
 
 
