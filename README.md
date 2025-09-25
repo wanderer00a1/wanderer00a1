@@ -49,7 +49,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wanderer00a1&theme=github_dark)
 
-![Top Langs](https://github-readme-stat-gules.vercel.app/api/top-langs/?username=wanderer00a1&count_private=true&theme=dark&layout=compact&cache_seconds=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderer00a1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
