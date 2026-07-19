@@ -16,7 +16,7 @@ I build production-grade platforms with **React**, **Node.js**, and **TypeScript
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
@@ -60,24 +60,24 @@ I build production-grade platforms with **React**, **Node.js**, and **TypeScript
     <td width="50%">
       <h4>🌐 Safe Area Template</h4>
       <p>A high-performance interactive web tool built with <strong>Astro + Tailwind CSS</strong>. Features a custom <strong>client-side canvas</strong> for real-time UI overlay previews — no server-side rendering needed. Drives organic traffic through dynamic XML sitemaps and programmatic SEO landing pages.</p>
-      <a href="https://safearea.video"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+      <a href="https://safearea.video"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%">
       <h4>💬 Twalto — Real-Time Chat</h4>
       <p>Production-ready messaging platform with live chat, online presence, and delivery tracking, powered by <strong>Socket.IO, Node.js, Express, and MongoDB</strong>. Frontend built with React + Vite + Zustand for fast, predictable state management.</p>
-      <a href="https://twalto.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=white" /></a>
+      <a href="https://twalto.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h4>🏠 Coloc — Roommate Matching Platform</h4>
       <p>A compatibility-based roommate matching engine that filters and pairs users on preferences and lifestyle metrics. Deployed on Vercel with full CI/CD — every push ships straight to production. Research published in <strong>IJFMR (June 2024)</strong>.</p>
-      <a href="https://colocweb.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+      <a href="https://colocweb.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%">
       <h4>📄 More on GitHub</h4>
       <p>Check out my pinned repositories for source code, architecture notes, and ongoing experiments.</p>
-      <a href="https://github.com/wanderer00a1?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/wanderer00a1?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -87,7 +87,6 @@ I build production-grade platforms with **React**, **Node.js**, and **TypeScript
 ### 🎯 Current Focus
 
 - 🔭 Building and shipping full-stack products end-to-end (frontend, backend, deployment)
-- 🌱 Actively contributing to open-source projects
 - 🧩 Solved **400+ problems** on LeetCode — sharpening DSA and problem-solving daily
 - 💼 Open to **Full-Stack Developer** roles — let's connect!
 
